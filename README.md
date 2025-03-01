@@ -24,7 +24,7 @@ Este é um projeto simples para adicionar amigos a uma lista e sortear um deles 
 ## Estrutura do Projeto
 
 - **HTML**: Estrutura básica da página.
-- **CSS**: Estilização da página (se necessário).
+- **CSS**: Estilização da página.
 - **JavaScript**: Lógica para adicionar amigos, exibir a lista e sortear um amigo.
 
 ## Como Executar
